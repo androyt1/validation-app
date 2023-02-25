@@ -1,9 +1,10 @@
 import React from 'react'
 
-const Home = () => {
+const Home = () => {    
   return (
-    <div>
-        
+    <div className='w-full'>
+        <h1>Live Validation</h1>
+        <h3>This is a Simple Form</h3>
     </div>
   )
 }
